@@ -1,1 +1,4 @@
 ||hanstar.top^
+||github.com^
+||bing.com^
+||microsoft.com^
